@@ -120,8 +120,6 @@ Creating an overview of an e-commerce website using Figma involves outlining the
 ![Screenshot (90)](https://github.com/user-attachments/assets/047644d5-57e2-4895-857f-bf708c95109a)
 ![Screenshot (91)](https://github.com/user-attachments/assets/ca16e0e6-c1f0-47ce-bbf7-c452a74f559f)
 ![Screenshot (92)](https://github.com/user-attachments/assets/423ec472-54e7-4921-9111-d74a54fc6613)
-![Screenshot (87)](https://github.com/user-attachments/assets/ae5c0c12-f3c5-41ba-9549-401ce3![Screenshot (93)](https://github.com/user-attachments/assets/3ce5a5cb-edca-4fc0-a9d7-e4aa1c2056cd)
-81d8a2)
 ![Screenshot (94)](https://github.com/user-attachments/assets/d11ddd10-a33c-4443-b26f-4db4ce1258e4)
 
   
